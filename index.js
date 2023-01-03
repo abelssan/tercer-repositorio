@@ -17,7 +17,8 @@ function Home(){
     return 
     (
         <><div>Home</div>
-        <p>Hola mundo</p><button onclick = {addItem} /></>
+        <p>modificación de mundos</p>
+        <button onclick = {addItem} /></>
     )
 }
 
